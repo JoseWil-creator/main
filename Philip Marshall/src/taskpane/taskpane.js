@@ -18,6 +18,9 @@ Office.onReady(info => {
   }
 });
 
+/**
+ * This is a text JS Doc
+ */
 export async function run() {
     // Get a reference to the current message
   var item = Office.context.mailbox.item;
